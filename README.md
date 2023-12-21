@@ -11,11 +11,23 @@
 - [Contribution](#contribution)
 
 # Introduction
--	Insert your project introduction
+-	The Smart Highway Project is a futuristic and innovative initiative that aims to revolutionize traditional road infrastructure by integrating advanced technologies to enhance safety, efficiency, and sustainability. This concept envisions the development of highways that are not just routes for vehicular transportation but intelligent ecosystems capable of adapting to changing conditions and providing a range of services.
 
 # Requirements
-For running the code, make sure that you have the required hardware. 
-Insert the table with the sensors, their images, and the quantity needed
+- Arduino uno:
+- Is a flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects.
+- Ultra sonic *2
+- Is an instrument that helps in motion sensing  an object using ultrasonic sound waves.
+- Servo motor
+- Incorporates positional feedback in order to control the rotational or linear speed and position.
+- LED(as required)
+- Is a widely used standard source of light in electrical equipment.
+- LDR
+- LDRs (light-dependent resistors) are used to detect light levels
+- Bread board
+- Is used for building temporary circuits
+- Wires
+- Wire is a flexible metallic conductor, especially one made of copper, usually insulated, and used to carry electric current in a circuit
 
 # Circuit Diagram
 - Add some info about your circuit diagram(if any).
