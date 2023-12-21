@@ -30,7 +30,7 @@
 - Wire is a flexible metallic conductor, especially one made of copper, usually insulated, and used to carry electric current in a circuit
 
 # Circuit Diagram
-- Add some info about your circuit diagram(if any).
+- The circuit 
 - insert circuit diagram
 
 # How to use
