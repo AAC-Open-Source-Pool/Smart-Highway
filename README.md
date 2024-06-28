@@ -25,9 +25,6 @@
 - LDR
 - LDRs (light-dependent resistors) are used to detect light levels
 - Bread board
-- Is used for building temporary circuits
-- Wires
-- Wire is a flexible metallic conductor, especially one made of copper, usually insulated, and used to carry electric current in a circuit
 
 # Circuit Diagram
 - The circuit 
